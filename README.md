@@ -41,4 +41,12 @@ Started Building Component
 
 - Header
 - Login Form
--Sign Up Form
+- Routing of App
+- Sign Up Form [With Regex Validation]
+- Autentication Using Firebase
+- Deploye it on Firebase
+- Create Sign Up in User Account
+- Setup Redux Toolkit npm install @reduxjstoolkit react-redux
+- Implemented signout features
+- update user profile
+- Fetch From TMDB movies
