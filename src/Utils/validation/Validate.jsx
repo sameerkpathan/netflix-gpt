@@ -4,7 +4,7 @@ const ValidateForm = (email, password, name) => {
     email,
   );
   const isPasswordValid = /^(?=.*?[0-9])(?=.*?[A-Za-z]).{8,32}$/.test(password);
-  const isNameValid = /^[0-9A-Za-z]{6,16}$/.test(name);
+  const isNameValid = /^[A-Za-z ]{3,30}$/.test(name);
 
   if (!isEmailValid) {
     error.email = "Email ID is not Valid";

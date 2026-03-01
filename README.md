@@ -50,3 +50,6 @@ Started Building Component
 - Implemented signout features
 - update user profile
 - Fetch From TMDB movies
+- Register in TMDB API and Create an app and get Access Token
+- Go to Documentaion and call movie API
+- 
